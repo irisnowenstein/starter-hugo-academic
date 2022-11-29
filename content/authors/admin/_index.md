@@ -62,9 +62,12 @@ highlight_name: true
 ---
 
 My primary research interests are language acquisition and language loss. I want to know how children learn language and how adults sometimes lose language. I also investigate the way in which these mechanisms shape language variation and change, particularly in the context of Icelandic case marking.
-{style="text-align: justify;"}
 
-Selected publications
+
+
+**Selected talks, posters & publications**
+
+**Nowenstein**, I. & Sigurjónsdóttir, S. 2022.  _A case for exceptions: Acquiring Icelandic dative productivity_. Poster presentation at the 47th BUCLD, November 3-6.
 
 
 **Nowenstein**, I., Ingason, A.K. & Wallenberg, J. 2022. Conditioned Variation: Children Replicate Contrasts, not Parental Variant Rate. _University of Pennsylvania Working Papers in Linguistics_, 28(2), 14.
@@ -79,7 +82,16 @@ Sigurjónsdóttir, S. & **Nowenstein**, I. 2021. Language acquisition in the dig
 **Nowenstein**, I. & Ingason, A.K. 2021. Featural dynamics in morphosyntactic change. In J.G. Jónsson & Th. Eythórsson (eds.), _Syntactic features and the limits of syntactic change_, p. 301–320. Oxford University Press. 
 
 
+**Nowenstein**, I. _Losing matrix V2 in Icelandic: Evidence from Heritage speakers_. 2019. Invited talk at an AcqVA V2 workshop, University of Oslo, October 22-23.
+
+
 Guðmundsdóttir, D., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. Changing Variation: Diffuse Directionality in Icelandic Subject Case Substitution. _University of Pennsylvania Working Papers in Linguistics_, 25(1), 13.
+
+
+Sigurðsson, E., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. _Merge before Agree: Acquiring datives in Insular Scandinavian_. Talk at the 34th CGSW workshop, University of Konstanz, June 14-15.
+
+
+**Nowenstein**, I., Thráinsson, H. & Magnúsdóttir, S. 2018. _Sentence comprehension in Heritage Icelandic: The effect of age-related decline_. Talk at the TALV workshop, UiT the Arctic University of Norway, April 19-20.
 
 
 Arnbjörnsdóttir, B., Thráinsson, H. & **Nowenstein**, I. 2018. V2 and V3 orders in North-American Icelandic. _Journal of Language Contact_, 11(3), 379–413.
@@ -95,3 +107,5 @@ Sigurjónsdóttir, S. & **Nowenstein**, I. 2016. Passives and the "New Impersona
 
 
 **Nowenstein**, I. 2014. Intra-speaker Variation in Subject Case: Icelandic. _University of Pennsylvania Working Papers in Linguistics_, 20(1), 28.
+
+{style="text-align: justify;"}
