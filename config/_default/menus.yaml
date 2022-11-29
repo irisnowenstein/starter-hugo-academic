@@ -5,7 +5,7 @@
 
 main:
 - name: Recent talks, posters & publications
-  url: uploads/resume.pdf
+  url: content/resume.pdf
   weight: 70
   #- name: Home
     #url: '#about'
