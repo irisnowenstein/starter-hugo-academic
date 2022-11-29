@@ -13,7 +13,7 @@ view: 4
 header:
   caption: ''
   image: ''
----
+
 **Nowenstein**, I., Ingason, A.K. & Wallenberg, J. 2022. Conditioned Variation: Children 
 Replicate Contrasts, not Parental Variant Rate. _University of Pennsylvania Working Papers in Linguistics_, 28(2), 14.
 
@@ -43,3 +43,4 @@ Sigurjónsdóttir, S. & **Nowenstein**, I. 2016. Passives and the "New Impersona
 
 
 **Nowenstein**, I. 2014. Intra-speaker Variation in Subject Case: Icelandic. _University of Pennsylvania Working Papers in Linguistics_, 20(1), 28.
+---
