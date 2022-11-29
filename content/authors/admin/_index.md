@@ -62,7 +62,4 @@ highlight_name: true
 ---
 
 My primary research interests are language acquisition and language loss. I want to know how children learn language and how adults sometimes lose language. I also investigate the way in which these mechanisms shape language variation and change, particularly in the context of Icelandic case marking.
-
-
-**Nowenstein**, I., Ingason, A.K. & Wallenberg, J. 2022. Conditioned Variation: Children Replicate Contrasts, not Parental Variant Rate. _University of Pennsylvania Working Papers in Linguistics_, 28(2), 14.
 {style="text-align: justify;"}
