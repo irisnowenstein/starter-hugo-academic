@@ -61,49 +61,64 @@ email: ''
 highlight_name: true
 ---
 
-My primary research interests are language acquisition and language loss. I want to know how children learn language and how adults sometimes lose language. I also investigate the way in which these mechanisms shape language variation and change, particularly in the context of Icelandic case marking.{style="text-align: justify;"}
+My primary research interests are language acquisition and language loss. I want to know how children learn language and how adults sometimes lose language. I also investigate the way in which these mechanisms shape language variation and change, particularly in the context of Icelandic case marking.
+{style="text-align: justify;"}
 
 
 
 **Selected talks, posters & publications**
 
-**Nowenstein**, I. & Sigurjónsdóttir, S. 2022.  _A case for exceptions: Acquiring Icelandic dative productivity_. Poster presentation at the 47th BUCLD, November 3-6.{style="text-align: justify;"}
+**Nowenstein**, I. & Sigurjónsdóttir, S. 2022.  _A case for exceptions: Acquiring Icelandic dative productivity_. Poster presentation at the 47th BUCLD, November 3-6.
+{style="text-align: justify;"}
 
 
-**Nowenstein**, I., Ingason, A.K. & Wallenberg, J. 2022. Conditioned Variation: Children Replicate Contrasts, not Parental Variant Rate. _University of Pennsylvania Working Papers in Linguistics_, 28(2), 14.{style="text-align: justify;"}
+**Nowenstein**, I., Ingason, A.K. & Wallenberg, J. 2022. Conditioned Variation: Children Replicate Contrasts, not Parental Variant Rate. _University of Pennsylvania Working Papers in Linguistics_, 28(2), 14.
+{style="text-align: justify;"}
 
 
-Angantýsson, Á., **Nowenstein**, I. & Thráinsson, H. 2021. English-like V3 orders in matrix clauses in Icelandic. _Working Papers in Scandinavian Syntax_, 106, 17-46.{style="text-align: justify;"}
+Angantýsson, Á., **Nowenstein**, I. & Thráinsson, H. 2021. English-like V3 orders in matrix clauses in Icelandic. _Working Papers in Scandinavian Syntax_, 106, 17-46.
+{style="text-align: justify;"}
 
 
-Sigurjónsdóttir, S. & **Nowenstein**, I. 2021. Language acquisition in the digital age: L2 English input effects on children’s L1 Icelandic. _Second Language Research_, 37(4), 697–723.{style="text-align: justify;"}
+Sigurjónsdóttir, S. & **Nowenstein**, I. 2021. Language acquisition in the digital age: L2 English input effects on children’s L1 Icelandic. _Second Language Research_, 37(4), 697–723.
+{style="text-align: justify;"}
 
 
-**Nowenstein**, I. & Ingason, A.K. 2021. Featural dynamics in morphosyntactic change. In J.G. Jónsson & Th. Eythórsson (eds.), _Syntactic features and the limits of syntactic change_, p. 301–320. Oxford University Press.{style="text-align: justify;"} 
+**Nowenstein**, I. & Ingason, A.K. 2021. Featural dynamics in morphosyntactic change. In J.G. Jónsson & Th. Eythórsson (eds.), _Syntactic features and the limits of syntactic change_, p. 301–320. Oxford University Press.
+{style="text-align: justify;"} 
 
 
-**Nowenstein**, I. 2019. _Losing matrix V2 in Icelandic: Evidence from Heritage speakers_. Invited talk at an AcqVA V2 workshop, University of Oslo, October 22-23.{style="text-align: justify;"}
+**Nowenstein**, I. 2019. _Losing matrix V2 in Icelandic: Evidence from Heritage speakers_. Invited talk at an AcqVA V2 workshop, University of Oslo, October 22-23.
+{style="text-align: justify;"}
 
 
-Guðmundsdóttir, D., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. Changing Variation: Diffuse Directionality in Icelandic Subject Case Substitution. _University of Pennsylvania Working Papers in Linguistics_, 25(1), 13.{style="text-align: justify;"}
+Guðmundsdóttir, D., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. Changing Variation: Diffuse Directionality in Icelandic Subject Case Substitution. _University of Pennsylvania Working Papers in Linguistics_, 25(1), 13.
+{style="text-align: justify;"}
 
 
-Sigurðsson, E., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. _Merge before Agree: Acquiring datives in Insular Scandinavian_. Talk at the 34th CGSW workshop, University of Konstanz, June 14-15.{style="text-align: justify;"}
+Sigurðsson, E., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. _Merge before Agree: Acquiring datives in Insular Scandinavian_. Talk at the 34th CGSW workshop, University of Konstanz, June 14-15.
+{style="text-align: justify;"}
 
 
-**Nowenstein**, I., Thráinsson, H. & Magnúsdóttir, S. 2018. _Sentence comprehension in Heritage Icelandic: The effect of age-related decline_. Talk at the TALV workshop, UiT the Arctic University of Norway, April 19-20.{style="text-align: justify;"}
+**Nowenstein**, I., Thráinsson, H. & Magnúsdóttir, S. 2018. _Sentence comprehension in Heritage Icelandic: The effect of age-related decline_. Talk at the TALV workshop, UiT the Arctic University of Norway, April 19-20.
+{style="text-align: justify;"}
 
 
-Arnbjörnsdóttir, B., Thráinsson, H. & **Nowenstein**, I. 2018. V2 and V3 orders in North-American Icelandic. _Journal of Language Contact_, 11(3), 379–413.{style="text-align: justify;"}
+Arnbjörnsdóttir, B., Thráinsson, H. & **Nowenstein**, I. 2018. V2 and V3 orders in North-American Icelandic. _Journal of Language Contact_, 11(3), 379–413.
+{style="text-align: justify;"}
 
 
-**Nowenstein**, I. 2017. Determining the nature of intra-speaker variation. In H. Thráinsson, C. Heycock, Z. Svabo & H. P. Petersen (eds.): _Syntactic Variation in Insular Scandinavian_, p. 92–112. John Benjamins.{style="text-align: justify;"}
+**Nowenstein**, I. 2017. Determining the nature of intra-speaker variation. In H. Thráinsson, C. Heycock, Z. Svabo & H. P. Petersen (eds.): _Syntactic Variation in Insular Scandinavian_, p. 92–112. John Benjamins.
+{style="text-align: justify;"}
 
 
-Wood, J., Sigurðsson E.F. & **Nowenstein**, I. 2017. Inverse Attraction in Icelandic Relative Clauses. In H. Thráinsson, C. Heycock, Z. Svabo & H. P. Petersen (eds.): _Syntactic Variation in Insular Scandinavian_, p. 200-232. John Benjamins.{style="text-align: justify;"}
+Wood, J., Sigurðsson E.F. & **Nowenstein**, I. 2017. Inverse Attraction in Icelandic Relative Clauses. In H. Thráinsson, C. Heycock, Z. Svabo & H. P. Petersen (eds.): _Syntactic Variation in Insular Scandinavian_, p. 200-232. John Benjamins.
+{style="text-align: justify;"}
 
 
-Sigurjónsdóttir, S. & **Nowenstein**, I. 2016. Passives and the "New Impersonal Construction" in Icelandic Language Acquisition. In L. Perkins, R. Dudley, J. Gerard & K. Hitczenko (eds.): _Selected Proceedings of the 6th Conference on Generative Approaches to Language Acquisition North America_, p. 110-121. Cascadilla Press.{style="text-align: justify;"}
+Sigurjónsdóttir, S. & **Nowenstein**, I. 2016. Passives and the "New Impersonal Construction" in Icelandic Language Acquisition. In L. Perkins, R. Dudley, J. Gerard & K. Hitczenko (eds.): _Selected Proceedings of the 6th Conference on Generative Approaches to Language Acquisition North America_, p. 110-121. Cascadilla Press. 
+{style="text-align: justify;"}
 
 
-**Nowenstein**, I. 2014. Intra-speaker Variation in Subject Case: Icelandic. _University of Pennsylvania Working Papers in Linguistics_, 20(1), 28. {style="text-align: justify;"}
+**Nowenstein**, I. 2014. Intra-speaker Variation in Subject Case: Icelandic. _University of Pennsylvania Working Papers in Linguistics_, 20(1), 28.
+{style="text-align: justify;"}
