@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+- name: Recent talks, posters & publications
+  url: uploads/resume.pdf
+  weight: 70
   #- name: Home
     #url: '#about'
     #weight: 10
@@ -25,6 +28,4 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-- name: Recent talks, posters & publications
-url: uploads/resume.pdf
-weight: 70
+
