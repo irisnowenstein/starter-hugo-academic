@@ -34,13 +34,15 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: publication
+    id: featured
     content:
       title: Featured Publications
-        folders:
+      filters:
+        folder: 
           - publication
     design:
       columns: '2'
+      view: compact
   - block: collection
     id: talks
     content:
