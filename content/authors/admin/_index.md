@@ -82,7 +82,7 @@ Sigurjónsdóttir, S. & **Nowenstein**, I. 2021. Language acquisition in the dig
 **Nowenstein**, I. & Ingason, A.K. 2021. Featural dynamics in morphosyntactic change. In J.G. Jónsson & Th. Eythórsson (eds.), _Syntactic features and the limits of syntactic change_, p. 301–320. Oxford University Press. 
 
 
-**Nowenstein**, I. _Losing matrix V2 in Icelandic: Evidence from Heritage speakers_. 2019. Invited talk at an AcqVA V2 workshop, University of Oslo, October 22-23.
+**Nowenstein**, I. 2019. _Losing matrix V2 in Icelandic: Evidence from Heritage speakers_. Invited talk at an AcqVA V2 workshop, University of Oslo, October 22-23.
 
 
 Guðmundsdóttir, D., **Nowenstein**, I. & Sigurjónsdóttir, S. 2019. Changing Variation: Diffuse Directionality in Icelandic Subject Case Substitution. _University of Pennsylvania Working Papers in Linguistics_, 25(1), 13.
