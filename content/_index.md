@@ -33,13 +33,17 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-- block: contact
+ - block: collection
     id: featured
     content:
       title: Featured Publications
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     id: talks
     content:
