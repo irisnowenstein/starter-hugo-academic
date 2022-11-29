@@ -34,13 +34,11 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: featured
+    id: publication
     content:
       title: Featured Publications
-      filters:
         folders:
           - publication
-        featured_only: false
     design:
       columns: '2'
   - block: collection
