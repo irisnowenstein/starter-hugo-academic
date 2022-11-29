@@ -1,6 +1,5 @@
 ---
 title: Recent & Upcoming Talks
-cms_exclude: true
 
 # View.
 #   1 = List
@@ -13,3 +12,5 @@ header:
   caption: ''
   image: ''
 ---
+**Nowenstein**, I. & Sigurjónsdóttir, S. 2022.  _A case for exceptions: Acquiring Icelandic dative productivity_. Poster presentation at the 47th BUCLD, November 3-6.
+{style="text-align: justify;"}
